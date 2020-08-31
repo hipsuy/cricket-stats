@@ -1,0 +1,1 @@
+This project aims to use python and sqlite to analyze cricket statsguru database(by Cricinfo)
